@@ -19,3 +19,6 @@ pytesseract
 datasets
 soundfile
 jiwer
+numpy
+scikit-learn
+
